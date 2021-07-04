@@ -1,0 +1,8 @@
+{
+  "name": "@tongzcomradez/is-even",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tongzcomradez/is-even.git",
+  "author": "tongzcomrade <s.rotbamrung@gmail.com>",
+  "license": "MIT"
+}

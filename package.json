@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:tongzcomradez/is-even.git",
   "author": "tongzcomrade <s.rotbamrung@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@tongzcomradez:registry": "https://npm.pkg.github.com"
+  }
 }
